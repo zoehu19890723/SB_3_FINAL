@@ -1,0 +1,46 @@
+/* Animations */
+.fade-enter-active, .fade-leave-active {
+  transition: opacity .5s ease;
+}
+.fade-enter, .fade-leave-active {
+  opacity: 0
+}
+.child-view {
+  position:absolute;width:100%;margin-bottom:50px;transition: all .5s cubic-bezier(.55,0,.1,1);
+}
+.slide-left-enter, .slide-right-leave-active {
+  opacity: 0;
+  -webkit-transform: translate(30px, 0);
+  transform: translate(30px, 0);
+}
+.slide-left-leave-active, .slide-right-enter {
+  opacity: 0;
+  -webkit-transform: translate(-30px, 0);
+  transform: translate(-30px, 0);
+}
+
+/* Color */
+.btn-orange{
+  background: rgb(255,69,0);
+}
+.btn-green{
+  background: rgb(39,211,48);
+}
+.btn-red{
+  background: rgb(221,39,39);
+}
+.btn-blue{
+  background: rgb(26,161,230);
+}
+.cdp-blue{
+  color:#007aff;
+}
+.content-block{
+  margin: 5px 0;
+}
+
+body, button, input, select, textarea {
+  color: #7d7d7d;
+  font: 400 1em/1.4 Tahoma,Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Microsoft YaHei",sans-self;
+}
+

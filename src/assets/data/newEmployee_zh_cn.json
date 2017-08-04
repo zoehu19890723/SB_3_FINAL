@@ -1,0 +1,35 @@
+{
+
+  "code": 200,
+  "message": "成功",
+  "title":"新进员工",
+  "data": [
+    {
+      "employee_name": "殷蕊",
+      "department": "Payroll & SAAS Service Center",
+      "position": "Intern",
+      "describetion":"本人性格稍有点内向，待人友好，工作勤奋，认真负责能吃苦耐劳，尽职尽责，有耐心。寒暑假曾在必胜客里打工，但环境稍小，但锻炼了自己工作的能力和吃苦耐劳的精神，在工作中尽心尽力",
+      "pdf_href":"http://portal.cdpyun.com/wp-content/plugins/pdfjs-shortcode/web/viewer.php?file=http://portal.cdpyun.com/wp-content/uploads/2017/01/2017-01-0522.pdf&download=true&print=true&openfile=true",
+      "date_available":"2017年01月04日",
+      "Onlookers":"18"
+    },{
+      "employee_name": "孙佳艺",
+      "department": "Flexible Staffing Solution",
+      "position": "BU Assistant",
+      "describetion":"本人今年22岁，出生于上海，性格随和，做事认真，爱好广泛，能够熟练运用Word，Excel及PPT等办公软件，会运用数据透视表，vlookup 函数，同时英语基础尚可。在学习工作之余，爱好是个，散文及一些室外活动，希望能够加入CDP的大家庭!",
+      "pdf_href":"http://portal.cdpyun.com/wp-content/plugins/pdfjs-shortcode/web/viewer.php?file=http://portal.cdpyun.com/wp-content/uploads/2017/01/2017-01-0580.pdf&download=true&print=true&openfile=true",
+      "date_available":"2017年1月3日",
+      "Onlookers":"10"
+    },
+    {
+      "employee_name": "陈浩",
+      "department": "Flexible Staffing Solution",
+      "position": "Sales Manager",
+      "describetion":"您好，我是来自湖南永州的陈浩。我是一个活泼乐观的男孩，三年半的人力资源行业从业年限让我对这行业有一定的了解和喜爱，很荣幸加入CDP大家庭，我将努力工作，早日融入大家，谢谢。",
+      "pdf_href":"http://portal.cdpyun.com/wp-content/plugins/pdfjs-shortcode/web/viewer.php?file=http://portal.cdpyun.com/wp-content/uploads/2017/01/2017-01-0548.pdf&download=true&print=true&openfile=true",
+      "date_available":"2017年1月3日",
+      "Onlookers":"21"
+    }
+
+  ]
+}

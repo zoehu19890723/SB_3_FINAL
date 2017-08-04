@@ -1,0 +1,31 @@
+{
+
+  "code": 200,
+  "message": "success",
+  "title":"Recent holiday notice",
+  "data": [
+    {
+      "title": "2016 National Day holiday notice",
+      "label": "首页",
+      "icon": "home"
+    },
+    {
+      "path": "Mid Autumn Festival holiday notice 2016",
+      "label": "动态",
+      "icon": "browser"
+    },
+    {
+      "path": "/login",
+      "label": "公告",
+      "icon": "app"
+    },{
+      "path": "/login",
+      "label": "我",
+      "icon": "me"
+    },{
+      "path": "/login",
+      "label": "设置",
+      "icon": "card"
+    }
+  ]
+}

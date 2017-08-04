@@ -1,0 +1,29 @@
+{
+  "code": 200,
+  "message": "获取成功",
+  "data": [
+    {
+      "path": "/home",
+      "label": "首页",
+      "icon": "home"
+    },
+    {
+      "path": "/login",
+      "label": "动态",
+      "icon": "browser"
+    },
+    {
+      "path": "/login",
+      "label": "公告",
+      "icon": "app"
+    },{
+      "path": "/login",
+      "label": "我",
+      "icon": "me"
+    },{
+      "path": "/login",
+      "label": "设置",
+      "icon": "card"
+    }
+  ]
+}

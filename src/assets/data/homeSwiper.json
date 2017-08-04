@@ -1,0 +1,17 @@
+{
+  "code": 200,
+  "message": "获取成功",
+  "data": [
+    {
+      "path": "/src/assets/img/EP-Banner-01.jpg",
+      "title": "Banner-01"
+    },
+    {
+      "path": "/src/assets/img/EP-Banner-02.jpg",
+      "title": "Banner-01"
+    },{
+      "path": "/src/assets/img/EP-Banner-03.jpg",
+      "title": "Banner-01"
+    }
+  ]
+}

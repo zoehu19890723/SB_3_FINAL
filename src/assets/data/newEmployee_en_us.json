@@ -1,0 +1,35 @@
+{
+
+  "code": 200,
+  "message": "success",
+  "title":"New Employee",
+  "data": [
+    {
+      "employee_name":"Fiona Yin",
+      "department": "Payroll & SAAS Service Center Intern",
+      "position": "Intern",
+      "describetion":"I am a little introverted personality, friendly people, hard work, serious and responsible to bear hardships and stand hard work, due diligence, patience. The summer vacation was working at a pizza hut, but the environment is very small, but the exercise of their own work and hard-working spirit, dedicated at work.",
+      "pdf_href":"http://portal.cdpyun.com/wp-content/plugins/pdfjs-shortcode/web/viewer.php?file=http://portal.cdpyun.com/wp-content/uploads/2017/01/2017-01-0522.pdf&download=true&print=true&openfile=true",
+      "date_available":"January 4, 2017",
+      "Onlookers":"18"
+    },
+    {
+      "employee_name": "Icy Sun",
+      "department": "Flexible Staffing Solution",
+      "position": "BU Assistant",
+      "describetion":"I am 22 years old, born in Shanghai, easygoing, earnest, hobbies, proficient in Word, Excel and PPT and other office software, can use the PivotTable, vlookup function, and basic English is. In the study of work, hobbies are, prose and some outdoor activities, hoping to join the CDP family!",
+      "pdf_href":"http://portal.cdpyun.com/wp-content/plugins/pdfjs-shortcode/web/viewer.php?file=http://portal.cdpyun.com/wp-content/uploads/2017/01/2017-01-0580.pdf&download=true&print=true&openfile=true",
+      "date_available":"January 3, 2017",
+      "Onlookers":"10"
+    },
+    {
+      "employee_name": "Hank Chen",
+      "department": "Flexible Staffing Solution",
+      "position": "Sales Manager",
+      "describetion":"Hello, I'm Chen Hao from Hunan, Yongzhou. I was a lively and optimistic boy, three and a half years of human resources experience let me have some knowledge and love of this industry, very honored to join the CDP family, I will work hard to fit in, thank you.",
+      "pdf_href":"http://portal.cdpyun.com/wp-content/plugins/pdfjs-shortcode/web/viewer.php?file=http://portal.cdpyun.com/wp-content/uploads/2017/01/2017-01-0548.pdf&download=true&print=true&openfile=true",
+      "date_available":"January 3, 2017",
+      "Onlookers":"21"
+    }
+  ]
+}
